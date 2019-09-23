@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Integer"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="WaterJugProblem.WaterJugAction"/>
+<fullyQualifiedTypeName name="WaterJugProblem.WaterJugState"/>
+<fullyQualifiedTypeName name="aima.core.agent.impl.NoOpAction"/>
+<fullyQualifiedTypeName name="aima.core.search.agent.SearchAgent"/>
+<fullyQualifiedTypeName name="aima.core.search.adversarial.AdversarialSearch"/>
+<fullyQualifiedTypeName name="aima.core.agent.Action"/>
+<fullyQualifiedTypeName name="aima.core.logic.fol.kb.FOLKnowledgeBase"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
